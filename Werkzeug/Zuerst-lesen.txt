@@ -1,0 +1,25 @@
+Kost – Ernährungstagebuch für den Mac
+
+Installieren (einmalig)
+1. „Kost“ auf „Programme“ ziehen.
+2. Kost in „Programme“ öffnen. macOS meldet beim ersten Mal, dass die App
+   nicht geprüft werden kann – sie stammt nicht aus dem App Store.
+3. Systemeinstellungen › Datenschutz & Sicherheit öffnen, nach unten scrollen
+   und bei „Kost“ auf „Dennoch öffnen“ klicken.
+4. Die Einrichtung in Kost durchgehen. Im letzten Schritt auf
+   „Weiter mit ChatGPT“ klicken, im Browser anmelden und Kost erlauben,
+   das ChatGPT-Abo zu nutzen. Das ist nur einmal nötig.
+
+Voraussetzung: macOS 14 (Sonoma) oder neuer. Zum Schätzen ein ChatGPT-Konto
+mit Plus oder Pro.
+
+Benutzen
+Im Rechner aufschreiben, was du gegessen hast – oder ein Foto hineinziehen –
+und auf „Schätzen“ klicken. ChatGPT schätzt Kalorien und Nährwerte, du
+kannst die Mengen noch anpassen und trägst alles mit einem Klick ein.
+
+Ohne Anmeldung funktionieren Tagebuch, Wasser, Gewicht, Auswertung, eigene
+Lebensmittel, Einträge von Hand und die Produktsuche trotzdem.
+
+Deine Daten bleiben auf deinem Mac:
+~/Library/Application Support/Kost/
